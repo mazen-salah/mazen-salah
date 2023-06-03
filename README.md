@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub--black?style=social&logo=github)](https://github.com/mazen-salah)
 
 </div>
-
+<div align="center">
 ![Header](header-image.png)
 
 ## Summary
