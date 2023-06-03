@@ -36,7 +36,7 @@ Motivated Flutter Developer with a strong interest in app and web development. C
 - Cisco Cybersecurity Intern, National Telecommunication Institute (NTI) (2022)
 - Programming Instructor (2021)
 
-## Graduation Projects
+## Projects
 
 1. **Smart Glove for Deaf People**
    - Developed a Flutter text-to-speech app with Arduino-based smart glove
