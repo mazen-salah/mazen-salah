@@ -41,13 +41,11 @@ Motivated Flutter Developer with a strong interest in app and web development. C
 1. **Smart Glove for Deaf People**
    - Developed a Flutter text-to-speech app with Arduino-based smart glove
    - Facilitated communication for deaf individuals
-   - ![Smart Glove](smart-glove-image.png)
    - [Documentation](https://drive.google.com/file/d/1oRoYaCMkF89TyWJn-Sb1IiwUTdisximN/view?usp=sharing)
 
 2. **Antibiotics Dosing Calculator**
    - Android app for accurate antibiotic dosage calculation
    - AI companion for doctors
-   - ![Antibiotics Dosing Calculator](antibiotics-calculator-image.png)
    - [Play Store](https://play.google.com/store/apps/details?id=com.summationWorks.antiobioCare) | [Web App](http://antibio-care.web.app/)
 
 ---
