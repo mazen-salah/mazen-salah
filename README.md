@@ -1,7 +1,5 @@
 <div align="center">
 
-# Mazen Tamer Salah
-
 > Flutter Developer | App & Web Development | Communication & Electronics Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mazen3056/)
