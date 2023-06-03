@@ -7,12 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mazen3056/)
 [![GitHub](https://img.shields.io/badge/GitHub--black?style=social&logo=github)](https://github.com/mazen-salah)
 
-</div>
-
-<div align="center">
-  <img src="header-image.png" alt="Header" />
-</div>
-
 ## Summary
 
 Motivated Flutter Developer with a strong interest in app and web development. Currently pursuing a bachelor's degree in Communication and Electronics Engineering. Experienced in Flutter development through Udemy courses, internships, and graduation projects. Proficient in teaching programming courses and contributing to innovative projects. Seeking new opportunities to apply skills and collaborate on exciting ventures.
