@@ -39,7 +39,7 @@ Self-employed (2021)
 
 ---
 
-## Graduation Projects
+## Projects
 
 1. **Smart Glove for Deaf People**
    - Flutter text-to-speech app with Arduino-based smart glove
