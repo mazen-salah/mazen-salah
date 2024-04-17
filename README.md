@@ -1,10 +1,4 @@
-Here's a concise and cool GitHub README for your profile:
-
----
-
 # Mazen Tamer Salah
-
-![Profile Picture](https://via.placeholder.com/150)
 
 👋 Hello! I'm Mazen Tamer Salah, a versatile professional skilled in web scraping, automation, and full-stack app and web development. Passionate about leveraging technology to drive efficiency and deliver exceptional user experiences.
 
