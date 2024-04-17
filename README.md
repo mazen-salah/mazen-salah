@@ -1,47 +1,33 @@
-<div align="center">
-
-> Flutter Developer | App & Web Development | Communication & Electronics Engineering
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mazen3056/)
-[![GitHub](https://img.shields.io/badge/GitHub--black?style=social&logo=github)](https://github.com/mazen-salah)
-
-## Summary
-
-Motivated Flutter Developer with a strong interest in app and web development. Currently pursuing a bachelor's degree in Communication and Electronics Engineering. Experienced in Flutter development through Udemy courses, internships, and graduation projects. Proficient in teaching programming courses and contributing to innovative projects. Seeking new opportunities to apply skills and collaborate on exciting ventures.
-
-## Skills
-
-![Flutter](https://img.shields.io/badge/Flutter--blue?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python--yellow?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript--orange?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React--blue?style=for-the-badge&logo=react&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub--black?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase--yellow?style=for-the-badge&logo=firebase&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino--blue?style=for-the-badge&logo=arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV--green?style=for-the-badge&logo=opencv&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium--blue?style=for-the-badge&logo=selenium&logoColor=white)
-
-## Experience
-
-- Flutter Developer Intern, GammalTech (2020)
-- ECPC Participant, Arab Academy for Science, Technology (2022)
-- Cisco Cybersecurity Intern, National Telecommunication Institute (NTI) (2022)
-- Programming Instructor (2021)
-
-## Projects
-
-1. **Smart Glove for Deaf People**
-   - Developed a Flutter text-to-speech app with Arduino-based smart glove
-   - Facilitated communication for deaf individuals
-   - [Documentation](https://drive.google.com/file/d/1oRoYaCMkF89TyWJn-Sb1IiwUTdisximN/view?usp=sharing)
-
-2. **Antibiotics Dosing Calculator**
-   - Android app for accurate antibiotic dosage calculation
-   - AI companion for doctors
-   - [Play Store](https://play.google.com/store/apps/details?id=com.summationWorks.antiobioCare) | [Web App](http://antibio-care.web.app/)
+Here's a concise and cool GitHub README for your profile:
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. Let's connect and collaborate on exciting ventures. Reach out to me via email or LinkedIn for more information.
+# Mazen Tamer Salah
 
-Let's build something remarkable together! 🚀
+![Profile Picture](https://via.placeholder.com/150)
+
+👋 Hello! I'm Mazen Tamer Salah, a versatile professional skilled in web scraping, automation, and full-stack app and web development. Passionate about leveraging technology to drive efficiency and deliver exceptional user experiences.
+
+💼 Currently working on exciting projects in web and app development. Check out my repositories for insights into my work.
+
+---
+
+## 🔨 Skills
+
+- **Languages:** Dart, C, C++, Python, JavaScript, Kotlin
+- **Frameworks:** Flutter, React Native, Jetpack Compose
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Django, Flask, Firebase, MongoDB
+- **Others:** Web Scraping, Selenium, Arduino, Embedded Systems
+
+---
+
+## 📫 Connect with Me
+
+- [Email](mailto:mazentamer3056@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mazen3056/)
+- [GitHub](https://github.com/mazen-salah)
+
+Let's collaborate on something amazing! ✨
+
+---
