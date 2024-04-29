@@ -3,7 +3,8 @@
 <h3 align="center"> A versatile professional skilled in web scraping, automation, and full-stack app and web development. Passionate about leveraging technology to drive efficiency and deliver exceptional user experiences.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazen-salah&label=Profile%20views&color=0e75b6&style=flat" alt="mazen-salah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazen-salah&theme=nord&title=MultiLanguage,Repositories,Commits,Experience" alt="mazen-salah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazen-salah&theme=nord&title=MultiLanguage,Repositories,Commits,Experience" alt="mazen-salah" /></a></p>
+
 - 🔭 I’m currently working on **exciting projects in web and app development. Check out my repositories for insights into my work.**
 - 🌱 I’m currently exploring **enhancing app performance and optimization strategies**, **new frameworks and libraries for full-stack development**, and **cybersecurity practices, including bug bounty hunting**.
 - 💬 Ask me about **building web and mobile apps**, **web scraping and data extraction**, **automation and optimization**, and **Flutter and mobile development**.
