@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **exciting projects in web and app development. Check out my repositories for insights into my work.**
 - 🌱 I’m currently exploring **enhancing app performance and optimization strategies**, **new frameworks and libraries for full-stack development**, and **cybersecurity practices, including bug bounty hunting**.
 - 💬 Ask me about **building web and mobile apps**, **web scraping and data extraction**, **automation and optimization**, and **Flutter and mobile development**.
-- 📫 How to reach me **mazentamer3056@gmail.com**
+- 📫 How to reach me **https://wa.me/+201010112468**
 - 👨‍💻 Some of my projects are available at **https://github.com/mazen-salah?tab=repositories**
 - 📄 Know about my experiences **https://docs.google.com/document/d/1txgFcG2w-sVg4bHcEsqJNrzmJ78UdA_H/**
 - 🎸 Fun fact **When I'm not coding, you can find me strumming my guitar! I play in a band and love making music as much as creating innovative apps. Let's rock and code! 🎶**
