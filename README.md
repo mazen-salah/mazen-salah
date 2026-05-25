@@ -55,13 +55,6 @@ I build production mobile apps and web platforms — Flutter on the frontend, La
 
 **Also** &nbsp; Selenium · web scraping · Postman · Figma · Git · Linux
 
-### GitHub
-
-<a href="https://github.com/mazen-salah">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mazen-salah&show_icons=true&theme=nord&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-salah&layout=compact&theme=nord&hide_border=true&langs_count=8" />
-</a>
-
 ### Ask me about
 
 Flutter architecture · Laravel APIs · web scraping & automation · building and leading dev teams · freelance client work
