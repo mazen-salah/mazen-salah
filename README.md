@@ -27,18 +27,36 @@ I'm a technical team lead and full-stack engineer building production mobile app
 **Currently leading engineering at:**
 
 <table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4>🏢 <a href="https://summationworks.com">SummationWorks</a></h4>
-      <p><b>Founder &amp; Technical Lead</b><br/>Software house I founded — shipping client mobile &amp; web work across MENA.</p>
+  <tr align="center">
+    <td width="33%" valign="top">
+      <a href="https://summationworks.com">
+        <img src="https://summationworks.com/images/logo.webp" height="60" alt="SummationWorks" />
+      </a>
+      <br/><br/>
+      <b><a href="https://summationworks.com">SummationWorks</a></b><br/>
+      <sub>Founder &amp; Technical Lead</sub>
+      <br/><br/>
+      Software house I founded — shipping client mobile &amp; web work across MENA.
     </td>
-    <td valign="top" width="33%">
-      <h4>🛠️ UTD Software</h4>
-      <p><b>Technical Team Lead</b><br/>Leading the engineering team on product delivery.</p>
+    <td width="33%" valign="top">
+      <a href="https://utdsoftware.com">
+        <img src="https://utdsoftware.com/assets/utd-logo.svg" height="60" alt="UTD Software" />
+      </a>
+      <br/><br/>
+      <b><a href="https://utdsoftware.com">UTD Software</a></b><br/>
+      <sub>Technical Team Lead</sub>
+      <br/><br/>
+      Technical infrastructure SDKs — Voice, OTP, Cloud, Realtime, Pay — plus live chat &amp; social apps.
     </td>
-    <td valign="top" width="33%">
-      <h4>🧺 Clean Basket</h4>
-      <p><b>Technical Team Lead</b><br/>Leading the engineering team — Laravel + Flutter stack on GCloud.</p>
+    <td width="33%" valign="top">
+      <a href="https://clean-basket.com">
+        <img src="https://clean-basket.com/assets/logo.png" height="60" alt="Clean Basket" />
+      </a>
+      <br/><br/>
+      <b><a href="https://clean-basket.com">Clean Basket</a></b><br/>
+      <sub>Technical Team Lead</sub>
+      <br/><br/>
+      On-demand laundry &amp; cleaning service across Saudi Arabia (Laravel + Flutter on GCloud).
     </td>
   </tr>
 </table>
