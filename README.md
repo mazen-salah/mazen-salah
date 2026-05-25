@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0B1A3E&height=200&section=header&text=Mazen%20Tamer%20Salah&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20engineer%20%C2%B7%20Founder%20%40%20SummationWorks&descSize=16&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0B1A3E&height=200&section=header&text=Mazen%20Tamer%20Salah&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Technical%20Lead%20%C2%B7%20Full-stack%20engineer%20%C2%B7%20Flutter%20%C2%B7%20Laravel%20%C2%B7%20Next.js&descSize=14&descAlignY=60&animation=fadeIn" />
 </p>
 
 <!-- Primary CTAs -->
@@ -22,7 +22,26 @@
 
 ## About
 
-I build production mobile apps and web platforms — Flutter on the frontend, Laravel / Node on the backend. I lead engineering at **[SummationWorks](https://summationworks.com)**, where my team ships client work across MENA, and I publish indie projects on the side.
+I'm a technical team lead and full-stack engineer building production mobile apps and web platforms — Flutter on the frontend, Laravel / Node on the backend.
+
+**Currently leading engineering at:**
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>🏢 <a href="https://summationworks.com">SummationWorks</a></h4>
+      <p><b>Founder &amp; Technical Lead</b><br/>Software house I founded — shipping client mobile &amp; web work across MENA.</p>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🛠️ UTD Software</h4>
+      <p><b>Technical Team Lead</b><br/>Leading the engineering team on product delivery.</p>
+    </td>
+    <td valign="top" width="33%">
+      <h4>🧺 Clean Basket</h4>
+      <p><b>Technical Team Lead</b><br/>Leading the engineering team — Laravel + Flutter stack on GCloud.</p>
+    </td>
+  </tr>
+</table>
 
 > **Open to interesting projects, collaborations, and full-time opportunities.**
 
@@ -151,6 +170,13 @@ I build production mobile apps and web platforms — Flutter on the frontend, La
 ---
 
 ## GitHub Stats
+
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mazen-salah&theme=nord&title=MultiLanguage,Repositories,Commits,Experience,Followers,Stars&no-frame=true&margin-w=15&row=1&column=6" alt="mazen-salah trophies" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazen-salah&theme=nord_dark" height="170" />
