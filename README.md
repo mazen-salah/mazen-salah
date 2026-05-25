@@ -1,75 +1,71 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Mazen Tamer Salah</h1>
-<h3 align="center"> A versatile professional skilled in web scraping, automation, and full-stack app and web development. Passionate about leveraging technology to drive efficiency and deliver exceptional user experiences.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazen-salah&label=Profile%20views&color=0e75b6&style=flat" alt="mazen-salah" /> </p>
+<h1 align="center">Hi, I'm Mazen Tamer Salah</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazen-salah&theme=nord&title=MultiLanguage,Repositories,Commits,Experience" alt="mazen-salah" /></a></p>
-
-- 🔭 I’m currently working on **exciting projects in web and app development. Check out my repositories for insights into my work.**
-- 🌱 I’m currently exploring **enhancing app performance and optimization strategies**, **new frameworks and libraries for full-stack development**, and **cybersecurity practices, including bug bounty hunting**.
-- 💬 Ask me about **building web and mobile apps**, **web scraping and data extraction**, **automation and optimization**, and **Flutter and mobile development**.
-- 📫 How to reach me: [WhatsApp](https://wa.me/+201010112468)
-- 👨‍💻 Some of my projects are available at my [GitHub repositories](https://github.com/mazen-salah?tab=repositories).
-- 📄 Know about my experiences in my [CV](https://docs.google.com/document/d/1txgFcG2w-sVg4bHcEsqJNrzmJ78UdA_H/).
-- 🎸 Fun fact: **When I'm not coding, you can find me strumming my guitar! I play in a band and love making music as much as creating innovative apps. Let's rock and code! 🎶**
-
-<div> <a href="https://www.linkedin.com/in/mazen3056" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/mazen-salah" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/zenma_tamer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:mazentamer3056@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mazen3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mazen3056" height="30" width="40" /></a><a href="https://fb.com/mazen3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="mazen3056" height="30" width="40" /></a><a href="https://www.hackerrank.com/mazentamer3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="mazentamer3056" height="30" width="40" /></a><a href="https://discordapp.com/users/576698764082020365" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="576698764082020365" height="30" width="40" /></a><a href="https://instagram.com/zenma_tamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="zenma_tamer" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<h4 align="left">Languages:</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<p align="center">
+  <b>Full-stack engineer</b> — Flutter · Laravel · Next.js<br/>
+  Founder & technical lead at <a href="https://summationworks.com">SummationWorks</a> · Alexandria, Egypt
 </p>
 
-<h4 align="left">Frameworks:</h4>
-<p align="left">
-  <img src="https://github.com/laravel/art/blob/master/laravel-logo.png" alt="Laravel Logo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
+<p align="center">
+  <a href="https://summationworks.com"><img src="https://img.shields.io/badge/SummationWorks-0B1A3E?style=for-the-badge&logoColor=00D4FF" /></a>
+  <a href="https://linkedin.com/in/mazen3056"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mazentamer3056@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/+201010112468"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<h4 align="left">Tools:</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+---
 
+### What I do
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mazen-salah&show_icons=true&locale=en&theme=nord" alt="mazen-salah" /></p>
+I build production mobile apps and web platforms — Flutter on the frontend, Laravel / Node on the backend. Currently shipping client work through **SummationWorks** and indie apps on the side. **Open to interesting projects and collaborations.**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+### Featured work
+
+- 📺 **[Smart-TV-Remote-Control](https://github.com/mazen-salah/Smart-TV-Remote-Control)** — Universal Smart TV remote built in Flutter · `12★`
+- 📚 **[Mobile App Development course](https://github.com/mazen-salah/Mobile-application-development-course-content)** — Course material I authored on mobile dev · `20★`
+- 🧪 **[qa-tester-assessment](https://github.com/mazen-salah/qa-tester-assessment)** — Public 8-exercise QA hiring rubric (Laravel + Flutter + Selenium + PHPUnit)
+- 📱 **[flutter-developer-assessment](https://github.com/mazen-salah/flutter-developer-assessment)** — Flutter technical assessment covering UI, state, perf, architecture
+- 🔎 **[social-media-finder](https://github.com/mazen-salah/social-media-finder)** — OSINT tool in Laravel 12: find social profiles by name / email / phone
+- 📖 **[Freelance Client Prospecting Guide](https://github.com/mazen-salah/Freelance-Client-Prospecting-Guide)** — Practical guide for freelancers landing clients
+
+### Stack
+
+**Mobile** &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Backend** &nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend** &nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+**Data & infra** &nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Also** &nbsp; Selenium · web scraping · Postman · Figma · Git · Linux
+
+### GitHub
+
 <a href="https://github.com/mazen-salah">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mazen-salah&theme=city_lights" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mazen-salah&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazen-salah&theme=city_lights" height="180em" />
-</div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mazen-salah&show_icons=true&theme=nord&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-salah&layout=compact&theme=nord&hide_border=true&langs_count=8" />
+</a>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+### Ask me about
+
+Flutter architecture · Laravel APIs · web scraping & automation · building and leading dev teams · freelance client work
+
+### Reach me
+
+🌐 [summationworks.com](https://summationworks.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mazen3056) &nbsp;·&nbsp; ✉️ [Email](mailto:mazentamer3056@gmail.com) &nbsp;·&nbsp; 📱 [WhatsApp](https://wa.me/+201010112468)
